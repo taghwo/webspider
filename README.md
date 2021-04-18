@@ -1,1 +1,1 @@
-A tiny webspider build with Scrapy library for Python
+A web crawler built with Scrapy library for Python
